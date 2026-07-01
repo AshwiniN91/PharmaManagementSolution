@@ -1,7 +1,7 @@
-# Pharma Management Solution
+## Pharma Management Solution
 A desktop application developed in VB.NET for managing medical inventories, billing, and manufacturer tracking. The system features a multi-tiered user dashboard with a secure login layer and direct SQL Server integration for real-time data handling.
 
-## 🚀 Key Features
+### 🚀 Key Features
 
 * **Secure Authentication:** Dedicated **Login Page** to control access to the application.
 * **Centralized Dashboard:** A **Home Page** providing seamless navigation across all modules.
@@ -13,7 +13,7 @@ A desktop application developed in VB.NET for managing medical inventories, bill
   * **Agent Page:** Manage sales agents and contact information.
  
 
-## 🛠️ Tech Stack & Architecture
+### 🛠️ Tech Stack & Architecture
 
 * **Frontend/UI:** VB.NET (Windows Forms / WPF)
 * **IDE:** Visual Studio 2026
@@ -21,7 +21,7 @@ A desktop application developed in VB.NET for managing medical inventories, bill
 * **Data Layer:** ADO.NET utilizing secure Connection Strings
 * **Operations:** Full CRUD capabilities via automated **DML Operations (Insert, Update, Delete)** executed instantly on button click actions.
 
-## 📋 Prerequisites
+### 📋 Prerequisites
 
 Before running this project, ensure you have the following installed:
 * .NET Framework [Version, e.g., 6.0 or more]
